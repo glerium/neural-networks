@@ -1,0 +1,4 @@
+*.ipynb
+*/data/*
+*/tiny-imagenet-200/*
+*.pyc
